@@ -4,11 +4,11 @@ Description: A team project to develop a cross-platform mobile application for a
 
 Features:
 
-User Authentication: Firebase Authentication for secure user registration and login.
-Subject Lists: Display subjects in a user-friendly list format.
-Notice Creation: Allow authorized users to create and post notices under specific subjects.
-Notifications: Integrate Firebase Cloud Messaging (FCM) for real-time push notifications about new notices.
-User Profiles: Enable users to customize profiles with profile pictures and notification preferences.
+User Authentication: Firebase Authentication for secure user registration and login.<br/>
+Subject Lists: Display subjects in a user-friendly list format.<br/>
+Notice Creation: Allow authorized users to create and post notices under specific subjects.<br/>
+Notifications: Integrate Firebase Cloud Messaging (FCM) for real-time push notifications about new notices.<br/>
+User Profiles: Enable users to customize profiles with profile pictures and notification preferences.<br/>
 
 <img src="https://github.com/mitul-patel67/College-Notice/assets/128608225/8a04696e-62f3-4b68-8a00-c425c36384c1" width="250" height="500">
 <img src="https://github.com/mitul-patel67/College-Notice/assets/128608225/5e1d9ec9-be7c-4616-867e-5326bb60dac4" width="250" height="500">
